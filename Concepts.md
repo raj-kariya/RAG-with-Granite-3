@@ -16,3 +16,10 @@ Within the RAG framework, there are five key stages, though in this lab, we'll f
 - **Querying**: Depending on your indexing strategy, there are multiple ways to utilize LLMs and LlamaIndex data structures for querying. This can include sub-queries, multi-step queries, and hybrid approaches.
 
 - **Evaluation** : An essential stage in any workflow is evaluating how effective your approach is compared to others or when adjustments are made. Evaluation offers objective metrics to assess the accuracy, fidelity, and speed of your query responses.
+
+<figure>
+    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/uEQ_sNaMScgOgnNh6olKGg/stages.png" width="100%" alt="langchain">
+    <figcaption><a href="https://docs.llamaindex.ai/en/stable/getting_started/concepts/">source</a></figcaption>
+</figure>
+
+
